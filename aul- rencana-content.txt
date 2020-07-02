@@ -2,8 +2,12 @@ Rencana Konten
 
 -Javascript
  *ES6
- *Framework 
- -Struktur Data dasar
+ *Framework
+  ^view
+  ^react
+ *Struktur Data dasar
 -PHP Framework
+ ^laraverl
 -Interview
 -Vlogs
+_Python
