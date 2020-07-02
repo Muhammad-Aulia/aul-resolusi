@@ -3,11 +3,11 @@ Rencana Konten
 -Javascript
  *ES6
  *Framework
-  ^view
+  ^vue
   ^react
- *Struktur Data dasar
+-Struktur Data dasar
 -PHP Framework
- ^laraverl
+  ^laraver
 -Interview
 -Vlogs
-_Python
+-Python
