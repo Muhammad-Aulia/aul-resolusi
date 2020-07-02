@@ -4,9 +4,10 @@ Rencana Konten
  *ES6
  *Framework
   ^view
+  ^react
  *Struktur Data dasar
 -PHP Framework
-^laraverl
+ ^laraverl
 -Interview
 -Vlogs
 _Python
